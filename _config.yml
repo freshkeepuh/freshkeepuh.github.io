@@ -1,0 +1,10 @@
+title: FreshKeep UH
+description: UHM ICS 414 Project FALL 2025
+header_pages:
+  - index.md
+style: light # dark (default)
+footer: 'latest updates'
+remote_theme: "b2a3e8/jekyll-theme-console"
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
