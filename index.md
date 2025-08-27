@@ -1,8 +1,8 @@
 ---
-title: "FreshKeep UH"
+title: "FreshKeepUH"
 date: 2025-08-26
 ---
-# FreshKeep UH
+# FreshKeepUH
 ## UHM ICS 414 Project Team 4
 Fall 2025
 
