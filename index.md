@@ -7,3 +7,13 @@ date: 2025-08-26
 Fall 2025
 
 [Team Contract](team-contract.md) ([Drive](https://docs.google.com/document/d/1MzPJ1kjAmIT8tNyVSGnF2TwIqzhSKTbYdr_i4EYSRlU/edit?usp=sharing))
+
+
+## Goals of the project
+Create a web application that allows users to track their food inventory, manage expiration dates...
+
+## What the system should eventually provide
+
+## Screenshots
+
+
