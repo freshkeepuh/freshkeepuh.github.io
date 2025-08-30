@@ -1,5 +1,5 @@
 ---
-title: "FreshKeepUH Team Contract"
+title: "Team Contract"
 date: 2025-08-26
 ---
 ### Team Members:
