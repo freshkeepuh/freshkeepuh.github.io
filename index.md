@@ -1,5 +1,5 @@
 ---
-title: "FreshKeepUH"
+title: "Home"
 date: 2025-08-26
 ---
 ## UHM ICS 414 Project Team 4
