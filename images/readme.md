@@ -3,8 +3,6 @@
 ## To Display images on index.md
 
 ### 2 options: 
-2.  Paste image into the index.md (ctrl+v)
-
 #### Option 1: 
 1. Upload image into images/ directory
 2. Index.md type ``<img src="/images/imageName.png" alt="image name">``
