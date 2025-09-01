@@ -7,7 +7,7 @@
 
 #### Option 1: 
 1. Upload image into images/ directory
-2. Index.md type ``<img src="/images/imageName.png" alt="image name"``
+2. Index.md type ``<img src="/images/imageName.png" alt="image name">``
 3. (imageName.png is the file name)
 
 
