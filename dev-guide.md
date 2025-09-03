@@ -19,3 +19,13 @@ $ npx prisma migrate dev # create the database schema
 $ npx prisma db seed # demo data
 
 $ npm run dev # start the local development server
+
+
+
+## Draft Tech Stack Flowchart
+
+<img src="images/draft-tech-stack-flow-chart.png" alt="Tech Stack Flowchart">
+
+## Draft Page Flowchart
+<img src="images/draft-page-flow-chart.png" alt="Page Flow Chart">
+
