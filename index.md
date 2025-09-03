@@ -14,6 +14,10 @@ Create a web application that allows users to track their food inventory, manage
 
 ## Screenshots
 
+## User Guide
+
+## [Developers Guide](dev-guide.md)
+
 ## Draft Tech Stack Flowchart
 
 <img src="images/draft-tech-stack-flow-chart.png" alt="Tech Stack Flowchart">
