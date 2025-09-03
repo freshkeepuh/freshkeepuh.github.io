@@ -14,7 +14,7 @@ Create a web application that allows users to track their food inventory, manage
 
 ## Screenshots
 
-## User Guide
+## [User Guide](user-guide.md)
 
 ## [Developers Guide](dev-guide.md)
 

@@ -2,6 +2,9 @@ title: FreshKeep UH
 description: UHM ICS 414 Project FALL 2025
 header_pages:
   - index.md
+  - team-contact.md
+  - user-guide.md
+  - dev-guide.md
 style: light # dark (default)
 footer: 'latest updates'
 remote_theme: "jekyll/minima@1e8a445"
