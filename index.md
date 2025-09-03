@@ -16,5 +16,8 @@ Create a web application that allows users to track their food inventory, manage
 
 ## [User Guide](user-guide.md)
 
-## [Developers Guide](dev-guide.md)
-
+## [Developer Guide](dev-guide.md)
+* Install [PostreSQL](https://www.postgresql.org/download/)
+* Install [Node.js and NPM](https://nodejs.org/en/download/)
+* Clone the FreshKeep Repository
+  * `git clone https://github.com/freshkeepuh/freshkeep.git`
