@@ -24,7 +24,13 @@ Create a web application that allows users to track their food inventory, manage
 * Clone the FreshKeep Repository
   * `git clone https://github.com/freshkeepuh/freshkeep.git`
 * Install the dependencies
-  * `npm install` 
+  * `npm install`
+* Create the Database
+  * `createdb freshkeepuh`
+* Create .env file using sample.env as template
+  * Set DATABASEURL to "postgresql://postgres:{password}@localhost:5432/mydb?schema=freshkeepuh"
+    * Replace '{password}' with the postgres root password
+  * Set NEXTAUTH_SECRET to Random String 
 * Build the FreshKeep application
   * `npm run build`
 * Start the Node.js Server
