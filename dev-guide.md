@@ -13,7 +13,7 @@ date: 2025-09-03
   * `createdb freshkeepuh`
 * Create .env file using sample.env as template
   * Set DATABASEURL to "postgresql://postgre:{password}@localhost:5432/mydb?schema=freshkeepuh"
-    * Replace '{password}' with the postgre root password
+    * Replace '{password}' with the postgres root password
   * Set NEXTAUTH_SECRET to Random String
 * Create the Database Schema and Seed the demo data
   * `npx prisma migrate dev`
