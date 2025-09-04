@@ -6,7 +6,7 @@ date: 2025-08-26
 Fall 2025
 
 ### Team
-* [Salina Thongsisavath](https://salina-tgithub.io)
+* [Salina Thongsisavath](https://salina-t.github.io)
 * [Ralph Ramos](https://ralphramosgit.github.io)
 * [Joseph Heintz](https://josephheintz.github.io)
 * [Andrea Jans](https://andrea.jans.org)
