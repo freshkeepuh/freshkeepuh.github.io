@@ -13,7 +13,8 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 minima:
   hide_site_feed_link: true  # `false` or `null` by default
-  social_links:
+minima:
+    social_links:
     - title: FreshKeepuh repository at GitHub
       icon: github
       url: "https://github.com/freshkeepuh/freshkeep"
