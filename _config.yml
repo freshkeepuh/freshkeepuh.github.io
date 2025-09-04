@@ -18,6 +18,7 @@ minima:
     - team-contact.md
     - user-guide.md
     - dev-guide.md
+    - about-developers.md
   social_links:
     - title: FreshKeepuh repository at GitHub
       icon: github
