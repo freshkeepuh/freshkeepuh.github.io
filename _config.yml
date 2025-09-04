@@ -1,10 +1,10 @@
 title: FreshKeep UH
 description: UHM ICS 414 Project FALL 2025
-header_pages:
-  - index.md
-  - team-contact.md
-  - user-guide.md
-  - dev-guide.md
+#header_pages:
+#  - index.md
+#  - team-contact.md
+#  - user-guide.md
+#  - dev-guide.md
 style: light # dark (default)
 footer: 'latest updates'
 remote_theme: "jekyll/minima@1fe0fbf"
@@ -13,6 +13,11 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 minima:
   hide_site_feed_link: true
+  nav_pages:
+    - index.md
+    - team-contact.md
+    - user-guide.md
+    - dev-guide.md
   social_links:
     - title: FreshKeepuh repository at GitHub
       icon: github
