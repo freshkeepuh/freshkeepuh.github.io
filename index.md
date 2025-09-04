@@ -17,6 +17,9 @@ Fall 2025
 
 [Team Contract](team-contract.md) ([Drive](https://docs.google.com/document/d/1MzPJ1kjAmIT8tNyVSGnF2TwIqzhSKTbYdr_i4EYSRlU/edit?usp=sharing))
 
+## [Team Biography](about-developers.md)
+Learn about our team members!
+
 ### Milestones
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
 
