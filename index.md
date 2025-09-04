@@ -1,5 +1,4 @@
 ---
-title: "Home"
 date: 2025-08-26
 ---
 ## University of Hawaiʻi at Mānoa - ICS 414 Project Team 4
