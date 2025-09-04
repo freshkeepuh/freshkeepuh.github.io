@@ -2,25 +2,26 @@
 title: "Developer Guide"
 date: 2025-09-03
 ---
-### Setting Up the Development Environment
-
-Clone this repository
-
-Install and run PostgreSQL
-
-$ createdb freshkeepuh # create a database
-
-Create a .env file from the sample.env. Set the DATABASE_URL
-
-$ npm install # install dependencies
-
-$ npx prisma migrate dev # create the database schema
-
-$ npx prisma db seed # demo data
-
-$ npm run dev # start the local development server
-
-
+### Quick Start
+* Install [PostreSQL](https://www.postgresql.org/download/)
+* Install [Node.js and NPM](https://nodejs.org/en/download/)
+* Clone the FreshKeep Repository
+  * `git clone https://github.com/freshkeepuh/freshkeep.git`
+* Install the dependencies
+  * `npm install`
+* Create the Database
+  * `createdb freshkeepuh`
+* Create .env file using sample.env as template
+  * Set DATABASEURL to "postgresql://postgre:{password}@localhost:5432/mydb?schema=freshkeepuh"
+    * Replace '{password}' with the postgre root password
+  * Set NEXTAUTH_SECRET to Random String
+* Create the Database Schema and Seed the demo data
+  * `npx prisma migrate dev`
+* Build the FreshKeep application
+  * `npm run build`
+* Start the Node.js Server in Development mode
+  * `npm run dev`
+* Open your web browser to the [Home Page](http://localhost:3000)
 
 ## Draft Tech Stack Flowchart
 
