@@ -7,7 +7,7 @@ header_pages:
   - dev-guide.md
 style: light # dark (default)
 footer: 'latest updates'
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/minima@c6e74bb"
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
