@@ -1,2 +1,2 @@
 # [FreshKeep UH](https://freshkeepuh.github.io)
-UHM ICS 414 Project Team 4 Home Page
+University of Hawaiʻi at Mānoa - ICS 414 Project Team 4 Home Page. Fall 2025
