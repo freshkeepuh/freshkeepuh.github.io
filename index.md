@@ -7,10 +7,11 @@ Fall 2025
 
 [Team Contract](team-contract.md) ([Drive](https://docs.google.com/document/d/1MzPJ1kjAmIT8tNyVSGnF2TwIqzhSKTbYdr_i4EYSRlU/edit?usp=sharing))
 
+### Milestones
+* [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
+
 ## Goals of the project
 Create a web application that allows users to track their food inventory, manage expiration dates, etc.
-
-## What the system should eventually provide
 
 ## [User Guide](user-guide.md)
 
