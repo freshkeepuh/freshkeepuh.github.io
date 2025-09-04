@@ -3,14 +3,14 @@ title: "Team Contract"
 date: 2025-08-26
 ---
 ### Team Members:
-[Salina Thongsisavath](https://github.com/salina-t)
-[Ralph Ramos](https://github.com/ralphramosgit)
-[Joseph Heintz](https://github.com/josephheintz)
-[Andrea Jans](https://github.com/awjans)
-[Dominic Molina](https://github.com/dominic-isaac-molina)
-[Dmitry Gordeev](https://github.com/GordeevD)
-[Ellie Ishii](https://github.com/ellieishii)
-[Joshua Sato](https://github.com/joshuanssato)
+* [Salina Thongsisavath](https://github.com/salina-t)
+* [Ralph Ramos](https://github.com/ralphramosgit)
+* [Joseph Heintz](https://github.com/josephheintz)
+* [Andrea Jans](https://github.com/awjans)
+* [Dominic Molina](https://github.com/dominic-isaac-molina)
+* [Dmitry Gordeev](https://github.com/GordeevD)
+* [Ellie Ishii](https://github.com/ellieishii)
+* [Joshua Sato](https://github.com/joshuanssato)
 
 ### Team Member Availability:
 https://www.when2meet.com/?31867844-Ucsvc
@@ -55,11 +55,11 @@ Third offense: The member will be reported to the class instructor for further a
 
 ### Signatures:
 
-Ralph Ramos
-Andrea Jans
-Salina Thongsisavath
-Joseph Heintz
-Joshua Sato
-Ellie Ishii
-Dominic Molina
-Dmitry Gordeev
+- Ralph Ramos
+- Andrea Jans
+- Salina Thongsisavath
+- Joseph Heintz
+- Joshua Sato
+- Ellie Ishii
+- Dominic Molina
+- Dmitry Gordeev
