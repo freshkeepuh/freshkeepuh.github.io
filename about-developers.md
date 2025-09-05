@@ -60,7 +60,7 @@ Dmitry Gordeev is studying for a B.S. in Computer Science: General Track in the 
 Ellie Ishii is studying for a B.A. in Information and Computer Sciences at the University of Hawai‘i and expects to graduate in Spring 2026. She is currently working toward a career in Web Development.
 <br /> **Interests:** Web Development, Software Engineering, Web Application Development <br /><br />
 
-
+<p align="center"> <img src="images/Joshua-photo.png" width=300px> </p>
 #### Joshua Sato [[GitHub](https://github.com/joshuanssato) / [LinkedIn](https://www.linkedin.com/in/joshua-ns-sato/)]
 
 Joshua Sato is studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai‘i and expects to graduate in Fall 2025.
