@@ -30,8 +30,6 @@ Learn about our team members!
 <p align="center"> <img src="images/mockups/dashboard-mockup.png" width=300px> </p>
 <p align="center"> <img src="images/mockups/add-product-mockup.png" width=300px> </p>
 <p align="center"> <img src="images/mockups/user-settings-mockup.png" width=300px> </p>
-<p align="center"> <img src="images/mockups/-mockup.png" width=300px> </p>
-
 
 ### Milestones
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
