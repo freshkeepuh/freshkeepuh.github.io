@@ -4,6 +4,7 @@ date: 2025-09-03
 ---
 ### Quick Start
 * Install [PostreSQL](https://www.postgresql.org/download/)
+  * Make your password simple - no special characters, otherwise you will need to [Percent Encode](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding) (otherwise known as URL Encode) the password.
 * Install [Node.js and NPM](https://nodejs.org/en/download/)
 * Clone the FreshKeep Repository
   * `git clone https://github.com/freshkeepuh/freshkeep.git`
@@ -11,14 +12,15 @@ date: 2025-09-03
   * `npm install`
 * Create the Database
   * `createdb freshkeepuh`
+  * On Windows, you need to give the full path to `createdb`, or add the PostreSQL bin directory to your PATH
 * Create .env file using sample.env as template
-  * Set DATABASEURL to "postgresql://postgre:{password}@localhost:5432/mydb?schema=freshkeepuh"
+  * Set DATABASEURL to "postgresql://postgres:{password}@localhost:5432/freshkeepuh?schema=public"
     * Replace '{password}' with the postgres root password
-  * Set NEXTAUTH_SECRET to Random String
-* Create the Database Schema and Seed the demo data
-  * `npx prisma migrate dev`
-* Build the FreshKeep application
-  * `npm run build`
+  * Set NEXTAUTH_SECRET to Long (64 characters or more) Random String
+* Create the Database Schema
+  * `npx prisma migrate dev` or `npm run migrate`
+* Create the Database Schema
+  * `npx prisma db seed` or `npm run seed`
 * Start the Node.js Server in Development mode
   * `npm run dev`
 * Open your web browser to the [Home Page](http://localhost:3000)
