@@ -3,7 +3,7 @@ title: "Developer Guide"
 date: 2025-09-03
 ---
 ### Quick Start
-* Install [PostreSQL](https://www.postgresql.org/download/)
+* Install [PostgreSQL](https://www.postgresql.org/download/)
   * Make your password simple - no special characters, otherwise you will need to [Percent Encode](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding) (otherwise known as URL Encode) the password.
 * Install [Node.js and NPM](https://nodejs.org/en/download/)
 * Clone the FreshKeep Repository
