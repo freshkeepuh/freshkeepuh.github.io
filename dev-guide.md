@@ -17,6 +17,7 @@ date: 2025-09-03
   * Set DATABASEURL to "postgresql://postgres:{password}@localhost:5432/freshkeepuh?schema=public"
     * Replace '{password}' with the postgres root password
   * Set NEXTAUTH_SECRET to Long (64 characters or more) Random String
+    * For example, you can generate one using: `openssl rand -base64 64`
 * Create the Database Schema
   * `npx prisma migrate dev` or `npm run migrate`
 * Seed the Database Schema
