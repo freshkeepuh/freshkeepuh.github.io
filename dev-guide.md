@@ -19,7 +19,7 @@ date: 2025-09-03
   * Set NEXTAUTH_SECRET to Long (64 characters or more) Random String
 * Create the Database Schema
   * `npx prisma migrate dev` or `npm run migrate`
-* Create the Database Schema
+* Seed the Database Schema
   * `npx prisma db seed` or `npm run seed`
 * Start the Node.js Server in Development mode
   * `npm run dev`
