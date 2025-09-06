@@ -14,7 +14,7 @@ date: 2025-09-03
   * `createdb freshkeepuh`
   * On Windows, you need to give the full path to `createdb`, or add the PostgreSQL bin directory to your PATH
 * Create .env file using sample.env as template
-  * Set DATABASEURL to "postgresql://postgres:{password}@localhost:5432/freshkeepuh?schema=public"
+  * Set DATABASE_URL to "postgresql://postgres:{password}@localhost:5432/freshkeepuh?schema=public"
     * Replace '{password}' with the postgres root password
   * Set NEXTAUTH_SECRET to Long (64 characters or more) Random String
 * Create the Database Schema
