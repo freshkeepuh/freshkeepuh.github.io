@@ -20,6 +20,19 @@ Fall 2025
 ## [Team Biography](about-developers.md)
 Learn about our team members!
 
+## Mockups
+<p align="center"> <img src="images/mockups/sign-in-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/sign-up-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/recipe-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/landing-page-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/locations-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/edit-location-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/dashboard-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/add-product-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/user-settings-mockup.png" width=300px> </p>
+<p align="center"> <img src="images/mockups/-mockup.png" width=300px> </p>
+
+
 ### Milestones
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
 
