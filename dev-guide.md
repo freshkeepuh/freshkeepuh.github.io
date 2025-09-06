@@ -25,8 +25,8 @@ date: 2025-09-03
 
 ## Draft Tech Stack Flowchart
 
-<img src="images/draft-tech-stack-flow-chart.png" alt="Tech Stack Flowchart">
+<img src="images/devGuide/draft-tech-stack-flow-chart.png" alt="Tech Stack Flowchart">
 
 ## Draft Page Flowchart
-<img src="images/draft-page-flow-chart.png" alt="Page Flow Chart">
+<img src="images/devGuide/draft-page-flow-chart.png" alt="Page Flow Chart">
 
