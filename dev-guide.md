@@ -12,7 +12,7 @@ date: 2025-09-03
   * `npm install`
 * Create the Database
   * `createdb freshkeepuh`
-  * On Windows, you need to give the full path to `createdb`, or add the PostreSQL bin directory to your PATH
+  * On Windows, you need to give the full path to `createdb`, or add the PostgreSQL bin directory to your PATH
 * Create .env file using sample.env as template
   * Set DATABASEURL to "postgresql://postgres:{password}@localhost:5432/freshkeepuh?schema=public"
     * Replace '{password}' with the postgres root password
