@@ -35,7 +35,11 @@ Learn about our team members!
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
 
 ## Goals of the project
-Create a web application that allows users to track their food inventory, manage expiration dates, etc.
+We get it--Life gets busy. Many of us, students, professors, parents, and adults struggle with food waste. Most of the time, we just don't have the right tools that help us keep track of everything. 
+
+Our goal is to create a web application that allows our users to track their food inventory, such as fridgerators, freezers, pantries, and spice racks, to prevent significant food waste. 
+
+We offer management tools such as tracking item stock, storage type, expiration dates, etc.
 
 ## [User Guide](user-guide.md)
 
