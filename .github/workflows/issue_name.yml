@@ -1,8 +1,14 @@
-name: Create Issue Branch
-
 on:
+  # The issue.opened event below is only needed for the "immediate" mode.
+  # The issue.assigned event below is only needed for the default ("auto") mode.
   issues:
-    types: [opened]
+    types: [ opened, assigned ]
+  # The issue_comment.created event below is only needed for the ChatOps mode.
+  issue_comment:
+    types: [ created ]
+  # The pull_request events below are only needed for pull-request related features.
+  pull_request:
+    types: [ opened, closed ]
 
 jobs:
   create_issue_branch_job:
@@ -12,5 +18,3 @@ jobs:
         uses: robvanderleek/create-issue-branch@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Echo branch name
-        run: echo ${{ steps.Create_Issue_Branch.outputs.branchName }}
