@@ -37,7 +37,7 @@ Learn about our team members!
 ## Goals of the project
 We get it--Life gets busy. Many of us, students, professors, parents, and adults struggle with food waste. Most of the time, we just don't have the right tools that help us keep track of everything. 
 
-Our goal is to create a web application that allows our users to track their food inventory, such as fridgerators, freezers, pantries, and spice racks, to prevent significant food waste. 
+Our goal is to create a web application that allows our users to track their food inventory, such as refrigerators, freezers, pantries, and spice racks, to prevent significant food waste. 
 
 We offer management tools such as tracking item stock, storage type, expiration dates, etc.
 
