@@ -14,10 +14,12 @@ Fall 2025
 * [Dmitry Gordeev](https://GordeevD.github.io)
 * [Ellie Ishii](https://ellieishii.github.io)
 * [Joshua Sato](https://joshuanssato.github.io)
+* [Phoebe Chang](https://peachcrumb.github.io/)
+
 
 [Team Contract](team-contract.md) ([Drive](https://docs.google.com/document/d/1MzPJ1kjAmIT8tNyVSGnF2TwIqzhSKTbYdr_i4EYSRlU/edit?usp=sharing))
 
-## [Team Biography](about-developers.md)
+## [About Developers](about-developers.md)
 Learn about our team members!
 
 ## Mockups
