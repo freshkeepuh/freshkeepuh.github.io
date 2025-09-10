@@ -35,6 +35,7 @@ Learn about our team members!
 
 ### Milestones
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
+* [Milestone 2 (M2)](https://github.com/orgs/freshkeepuh/projects/9) - Pages and Acceptance Testing
 
 ## Goals of the project
 We get it--Life gets busy. Many of us, students, professors, parents, and adults struggle with food waste. Most of the time, we just don't have the right tools that help us keep track of everything. 
