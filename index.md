@@ -5,6 +5,8 @@ date: 2025-08-26
 ## University of Hawaiʻi at Mānoa - ICS 414 Project Team 3
 Fall 2025
 
+[![pages-build-deployment](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment)
+
 ### Team
 * [Salina Thongsisavath](https://salina-t.github.io)
 * [Ralph Ramos](https://ralphramosgit.github.io)
@@ -47,6 +49,3 @@ We offer management tools such as tracking item stock, storage type, expiration 
 ## [User Guide](user-guide.md)
 
 ## [Developer Guide](dev-guide.md)
-
-[![pages-build-deployment](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment)
-
