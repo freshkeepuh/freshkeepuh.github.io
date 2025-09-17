@@ -2,7 +2,7 @@
 title: "Developer Guide"
 date: 2025-09-06
 ---
-### Quick Start
+## Quick Start
 * Install [PostgreSQL](https://www.postgresql.org/download/)
   * Make your password simple - no special characters, otherwise you will need to [Percent Encode](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding) (otherwise known as URL Encode) the password.
 * Install [Node.js and NPM](https://nodejs.org/en/download/)
@@ -31,10 +31,20 @@ date: 2025-09-06
   * `npm run dev`
 * Open your web browser to the [Home Page](http://localhost:3000)
 
+### Testing
+* Install Playwright with Dependencies (only once)
+  * `npx playwright install --with-deps`
+* Run Playwright
+  * `npx playwright test` or `npm run test`
+
+## Draft Entity Relationship Diagram
+
+![ERD Diagram](images/devGuide/prisma-uml.png)
+
 ## Draft Tech Stack Flowchart
 
-<img src="images/devGuide/draft-tech-stack-flow-chart.png" alt="Tech Stack Flowchart">
+![Tech Stack Flowchart](images/devGuide/draft-tech-stack-flow-chart.png)
 
 ## Draft Page Flowchart
-<img src="images/devGuide/draft-page-flow-chart.png" alt="Page Flow Chart">
+![Page Flow Chart](images/devGuide/draft-page-flow-chart.png)
 
