@@ -7,7 +7,7 @@ Fall 2025
 
 # [FreshKeep Application](https://freshkeepuh.live)
 
-[![pages-build-deployment](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/freshkeepuh/freshkeepuh.github.io/actions/workflows/pages/pages-build-deployment)
+[![Continuous Integration](https://github.com/freshkeepuh/freshkeep/actions/workflows/continuous-integration.yaml/badge.svg?branch=main)](https://github.com/freshkeepuh/freshkeep/actions/workflows/continuous-integration.yaml)
 
 ### Team
 * [Salina Thongsisavath](https://salina-t.github.io)
