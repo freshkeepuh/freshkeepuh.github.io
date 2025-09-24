@@ -31,7 +31,6 @@ Learn about our team members!
 <p align="center"> <img src="https://github.com/user-attachments/assets/dbc66b79-7e06-443e-8ae6-2700f5a0dded" width=600px> </p>
 <p align="center"> <img src="https://github.com/user-attachments/assets/68c06f2f-859a-4872-974c-20a633f6638d" width=600px> </p>
 <p align="center"> <img src="images/mockups/landing-page-mockup.png" width=600px> </p>
-<p align="center"> <img src="https://github.com/user-attachments/assets/dd1e45d3-bb92-4aa4-bd8e-6a9f793daf3e" width=600px> </p>
 <p align="center"> <img src="https://github.com/user-attachments/assets/11dd7a59-549b-4362-a3e3-79bc3e517b82" width=600px> </p>
 <p align="center"> <img src="https://github.com/user-attachments/assets/5d858e5f-11bc-4c70-9d36-587026382b39" width=600px> </p>
 <p align="center"> <img src="images/mockups/user-settings-mockup.png" width=600px> </p>
