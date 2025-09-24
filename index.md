@@ -36,6 +36,10 @@ Learn about our team members!
 <p align="center"> <img src="images/mockups/dashboard-mockup.png" width=300px> </p>
 <p align="center"> <img src="images/mockups/add-product-mockup.png" width=300px> </p>
 <p align="center"> <img src="images/mockups/user-settings-mockup.png" width=300px> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/329511ce-9e19-45d9-b2de-5a81a5deb617" width=300px> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/9678c106-3980-4a0f-84d2-1a6f69001f23" width=300px> </p>
+
+
 
 ### Milestones
 * [Milestone 1 (M1)](https://github.com/orgs/freshkeepuh/projects/7) - Tech Stack and Mockups
