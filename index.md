@@ -31,6 +31,7 @@ Learn about our team members!
 * [Milestone 2 (M2)](https://github.com/orgs/freshkeepuh/projects/9) - Pages and Acceptance Testing
 * [Milestone 3 (M3)](https://github.com/orgs/freshkeepuh/projects/13) - More Pages and Acceptance Testing
 * [Milestone 4 (M4)](https://github.com/orgs/freshkeepuh/projects/15) - More Pages and Acceptance Testing
+* [Milestone 5 (M5)](https://github.com/orgs/freshkeepuh/projects/18) - More Pages and Acceptance Testing
 
 ## Pages
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
