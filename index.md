@@ -36,7 +36,7 @@ Learn about our team members!
 ## Pages
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <img src="https://github.com/user-attachments/assets/f264282e-7a7e-436e-b9e8-4336079622f4" width="400px" />
-  <img src="https://github.com/user-attachments/assets/5423d52f-5f4f-4df1-a3c7-3bbedca96bd4" width="400px" />
+  <img src="https://github.com/user-attachments/assets/8975f4f0-78b7-4cbf-b720-ba0f467e2039" width="400px" />
   <img src="https://github.com/user-attachments/assets/4f014dc2-4667-4ff0-8916-9882ea0a80ed" width="400px" />
   <img src="https://github.com/user-attachments/assets/c51e8a36-7d2a-4153-91d0-679d418c6afb" width="400px" />
   <img src="https://github.com/user-attachments/assets/c7994418-f82c-48a4-be51-e018aa7da3d0" width="400px" />
