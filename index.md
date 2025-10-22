@@ -35,31 +35,24 @@ Learn about our team members!
 
 ## Pages
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/336811cc-040b-4386-b6ce-3ce06f3d5301" width=400px>
-  <img src="https://github.com/user-attachments/assets/dbc66b79-7e06-443e-8ae6-2700f5a0dded" width=400px>
-  <img src="https://github.com/user-attachments/assets/68c06f2f-859a-4872-974c-20a633f6638d" width=400px>
+  <img src="https://github.com/user-attachments/assets/f264282e-7a7e-436e-b9e8-4336079622f4" width="400px" />
+  <img src="https://github.com/user-attachments/assets/5423d52f-5f4f-4df1-a3c7-3bbedca96bd4" width="400px" />
+  <img src="https://github.com/user-attachments/assets/4f014dc2-4667-4ff0-8916-9882ea0a80ed" width="400px" />
+  <img src="https://github.com/user-attachments/assets/c51e8a36-7d2a-4153-91d0-679d418c6afb" width="400px" />
+  <img src="https://github.com/user-attachments/assets/c7994418-f82c-48a4-be51-e018aa7da3d0" width="400px" />
+  <img src="https://github.com/user-attachments/assets/d4c9d623-c3ee-487b-a804-b1e9f43330a1" width="400px" />
   <img src="https://github.com/user-attachments/assets/11dd7a59-549b-4362-a3e3-79bc3e517b82" width=400px>
-  <img src="https://github.com/user-attachments/assets/5d858e5f-11bc-4c70-9d36-587026382b39" width=400px>
-  <img src="https://github.com/user-attachments/assets/329511ce-9e19-45d9-b2de-5a81a5deb617" width=400px>
   <img src="https://github.com/user-attachments/assets/9678c106-3980-4a0f-84d2-1a6f69001f23" width=400px>
-  <img src="https://github.com/user-attachments/assets/144e5bca-fe41-4114-bae0-35fcfaddc1bf" width=400px>
 </div>
 
 ## Mockups
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/336811cc-040b-4386-b6ce-3ce06f3d5301" width=400px>
-  <img src="https://github.com/user-attachments/assets/dbc66b79-7e06-443e-8ae6-2700f5a0dded" width=400px>
-  <img src="https://github.com/user-attachments/assets/68c06f2f-859a-4872-974c-20a633f6638d" width=400px>
-  <img src="images/mockups/landing-page-mockup.png" width=400px>
-  <img src="https://github.com/user-attachments/assets/11dd7a59-549b-4362-a3e3-79bc3e517b82" width=400px>
-  <img src="https://github.com/user-attachments/assets/5d858e5f-11bc-4c70-9d36-587026382b39" width=400px>
-  <img src="images/mockups/user-settings-mockup.png" width=400px>
-  <img src="https://github.com/user-attachments/assets/329511ce-9e19-45d9-b2de-5a81a5deb617" width=400px>
-  <img src="https://github.com/user-attachments/assets/9678c106-3980-4a0f-84d2-1a6f69001f23" width=400px>
-  <img src="https://github.com/user-attachments/assets/144e5bca-fe41-4114-bae0-35fcfaddc1bf" width=400px>
-  <!-- WIP -->
-  <img src="images/mockups/landing-page-mockup.png" width=400px>
-  <img src="images/mockups/user-settings-mockup.png" width=400px>
+  <img src="https://github.com/user-attachments/assets/336811cc-040b-4386-b6ce-3ce06f3d5301" width=400px />
+  <img src="https://github.com/user-attachments/assets/dbc66b79-7e06-443e-8ae6-2700f5a0dded" width=400px />
+  <img src="https://github.com/user-attachments/assets/d1c211d0-3983-4693-a51a-ce0f1b64f8e8" width="400px" />
+  <img src="images/mockups/user-settings-mockup.png" width=400px />
+  <img src="https://github.com/user-attachments/assets/aba1e1d2-5f8e-434c-91be-2024827f0841" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/ce5a909a-da63-436a-9469-e2815db81910" width="400px"/>
 </div>
 
 ## Goals of the project
@@ -72,3 +65,4 @@ We offer management tools such as tracking item stock, storage type, expiration 
 ## [User Guide](user-guide.md)
 
 ## [Developer Guide](dev-guide.md)
+
