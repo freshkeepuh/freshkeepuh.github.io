@@ -160,21 +160,21 @@ TBD
 ## Stores
 
 <div style="display: flex;">
-  <p><img src="images/screenshots/stores_page.png" alt="Stores Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/stores_page.jpeg" alt="Stores Page" style="float: left; margin: 15px; width: 400px">
   The Stores page allows you to see the stores at which you shop.</p>
 </div>
 
 ### Store
 
 <div style="display: flex;">
-  <p><img src="images/screenshots/store_page.png" alt="Store Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/store_page.jpeg" alt="Store Page" style="float: left; margin: 15px; width: 400px">
   The Store page allows you to see the particular store, the shopping lists associated with it, and the Products you purchase from that store.</p>
 </div>
 
 #### Add/Edit Mode
 
 <div style="display: flex;">
-  <p><img src="images/screenshots/store_page_edit.png" alt="Store Page Add/Edit" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/store_page_edit.jpeg" alt="Store Page Add/Edit" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Store page allows you to edit the name, address, etc.</p>
 </div>
 
