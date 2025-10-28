@@ -8,12 +8,12 @@ date: 2025-10-27
 
 <div style="display: grid;">
   <p><img src="images/screenshots/home_page.jpeg" alt="Home Page" style="float: left; margin: 15px; width: 400px">
-    The Home page is your landing page. It has a link in the upper right to sign in.
+    The Home page is your landing page.
   </p>
   <div style="display: block;">
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the Sign In page.</li>
+      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
     </ul>
   </div>
 </div>
@@ -23,7 +23,7 @@ date: 2025-10-27
 <div style="display: grid;">
   <p><img src="images/screenshots/sign_in_page.jpeg" alt="Sign In Page" style="float: left; margin: 15px; width: 400px">
     The Sign In page is where you enter your credentials to access the FreshKeep application.
-    Use your registered email address and password. If you do not have an account, the 'Sign Up' link will take you to the Sign Up page.
+    Use your registered email address and password. If you do not have an account, the 'Sign Up' link will take you to the [Sign Up](#sign-up) page.
   </p>
   <div style="display: block">
     <p><strong>Fields</strong></p>
@@ -38,7 +38,7 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign Up:</strong> Go to the Sign Up page.</li>
+      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
     </ul>
   </div>
 </div>
@@ -51,7 +51,7 @@ date: 2025-10-27
     Use your primary email address. You will need to type a password longer than 6 characters and less than 20.
     You will need to confirm your password. If you email address is not already registered, your account will be created
     and you will be signed in.
-    If you email address is already registered, you can use the 'Sign In' link to take you to the Sign In page.
+    If you email address is already registered, you can use the 'Sign In' link to take you to the [Sign In](#sign-in) page.
   </p>
   <div style="display: block;">
     <p><strong>Fields</strong></p>
@@ -67,18 +67,84 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the Sign In page.</li>
+      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
+    </ul>
+  </div>
+</div>
+
+## Change Password
+
+<div style="display: grid;">
+  <p><img src="images/screenshots/change_password_page.jpeg" alt="Change Password Page" style="float: left; margin: 15px; width: 400px">
+    The Change Password page is where you can change your password.
+  </p>
+  <div style="display: block;">
+    <p><strong>Fields</strong></p>
+    <ul>
+      <li><strong>Old Password:</strong> Enter your existing password.</li>
+      <li><strong>New Password:</strong> Enter your new password.</li>
+      <li><strong>Confirm New Password:</strong> Enter your new password again.</li>
+    </ul>
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Change:</strong> Change the password.</li>
+      <li><strong>Reset:</strong> Clear the form.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Forgot Password:</strong> Go to the [Forgot Password](#forgot-password) page.</li>
     </ul>
   </div>
 </div>
 
 ## Forgot Password
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/forgot_password_page.jpeg" alt="Forgot Password Page" style="float: left; margin: 15px; width: 400px">
+    The Forgot Password page is where you can enter your email address to get a Password Reset link.
+  </p>
+  <div style="display: block;">
+    <p><strong>Fields</strong></p>
+    <ul>
+      <li><strong>Email:</strong> Enter your email address.</li>
+    </ul>
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Send:</strong> Send the Password Reset email address if the email address exists.</li>
+      <li><strong>Reset:</strong> Clear the form.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
+      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
+    </ul>
+  </div>
+</div>
 
 ## Reset Password
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/reset_password_page.jpeg" alt="Reset Password Page" style="float: left; margin: 15px; width: 400px">
+    The Reset Password page is where you can reset your password if you forgot it.
+  </p>
+  <div style="display: block;">
+    <p><strong>Fields</strong></p>
+    <ul>
+      <li><strong>Password:</strong> Enter your new password.</li>
+      <li><strong>Confirm Password:</strong> Enter your new password again.</li>
+    </ul>
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Update:</strong> Update your password.</li>
+      <li><strong>Reset:</strong> Clear the form.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
+      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
+    </ul>
+  </div>
+</div>
 
 ## Dashboard
 
@@ -101,7 +167,7 @@ TBD
   The Location page letes you see a single location and all of the storage associated with the location.</p>
 </div>
 
-#### Add/Edit Mode
+#### Location Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/location_page_edit.jpeg" alt="Location Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -122,7 +188,7 @@ TBD
   The Storage page letes you see a single storage and all of the product instances associated with it.</p>
 </div>
 
-#### Add/Edit Mode
+#### Storage Area Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/storage_area_page_edit.jpeg" alt="Storage Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -143,7 +209,7 @@ TBD
   The Product page letes you see a single Product and all of the product instances associated with it.</p>
 </div>
 
-#### Add/Edit Mode
+#### Product Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/product_page_edit.jpeg" alt="Product Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -161,7 +227,7 @@ TBD
   The Product Instance page allows you to see the instance of the product.</p>
 </div>
 
-#### Add/Edit Mode
+#### Product Instance Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/product_instance_page_edit.jpeg" alt="Product Instance Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -172,7 +238,7 @@ TBD
 
 <div style="display: grid;">
   <p><img src="images/screenshots/product_instance_page_use.jpeg" alt="Product Instance Page Use" style="float: left; margin: 15px; width: 400px">
-  The Use mode of the Product Instance page allows you to edit the Quantity of a new or existing product instance.</p>
+  The Use mode of the Product Instance page allows you to edit the Quantity of an existing product instance.</p>
 </div>
 
 ## Recipes
@@ -189,7 +255,7 @@ TBD
   The Recipe page allows you to see the instance of the Recipe.</p>
 </div>
 
-#### Add/Edit Mode
+#### Recipe Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/recipe_page_edit.jpeg" alt="Recipe Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -211,7 +277,7 @@ TBD
   </p>
 </div>
 
-#### Add/Edit Mode
+#### Shopping List Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/shopping_list_page_edit.jpeg" alt="Shopping List Page Add/Edit" style="float: left; margin: 15px; width: 400px">
@@ -223,6 +289,18 @@ TBD
 <div style="display: grid;">
   <p><img src="images/screenshots/stores_page.jpeg" alt="Stores Page" style="float: left; margin: 15px; width: 400px">
   The Stores page allows you to see the stores at which you shop.</p>
+  <div style="display: block">
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Edit:</strong> The Pencil icon puts you into [Edit](#store-addedit-mode) mode, where you can edit the name, address, etc. See the [Store Add/Edit Mode](#store-addedit-mode) section for details on the available fields and buttons.</li>
+      <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
+      <li><strong>Store Name:</strong> Got to the [Store](#store) page, where you can see and edit the Store information, and view the Shopping Lists and Products associated with the Store.</li>
+    </ul>
+  </div>
 </div>
 
 ### Store
@@ -230,13 +308,51 @@ TBD
 <div style="display: grid;">
   <p><img src="images/screenshots/store_page.jpeg" alt="Store Page" style="float: left; margin: 15px; width: 400px">
   The Store page allows you to see the particular store, the shopping lists associated with it, and the Products you purchase from that store.</p>
+  <div style="display: block">
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Edit:</strong> The Pencil icon puts you into Edit mode, where you can edit the name, address, etc. See the [Store Add/Edit Mode](#store-addedit-mode) section for details on the available fields and buttons.</li>
+      <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
+      <li><strong>Shopping List Name:</strong> Got to the [Shopping List](#shopping-list) page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
+      <li><strong>Product Name:</strong> Got to the [Product](#product) page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
+    </ul>
+  </div>
 </div>
 
-#### Add/Edit Mode
+#### Store Add/Edit Mode
 
 <div style="display: grid;">
   <p><img src="images/screenshots/store_page_edit.jpeg" alt="Store Page Add/Edit" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Store page allows you to edit the name, address, etc.</p>
+  <div style="display: block;">
+    <p><strong>Fields</strong></p>
+    <ul>
+      <li><strong>Name:</strong> Enter the name of the store, required, must be unique.</li>
+      <li><strong>Address 1:</strong> Enter the street address of the store, required.</li>
+      <li><strong>Address 2:</strong> Enter the secondary address of the store such as a Suite number, optional.</li>
+      <li><strong>City:</strong> Enter the City in which the store is located, required.</li>
+      <li><strong>State:</strong> Enter the State or Provence in which the store is located, required.</li>
+      <li><strong>ZIP Code:</strong> Enter the ZIP or Postal Code in which the store is located, required.</li>
+      <li><strong>Country:</strong> Select the Country in which the store is located, required.</li>
+      <li><strong>Phone:</strong> Enter the Phone number of the store, optional.</li>
+      <li><strong>Website:</strong> Enter the Website URL for the store, optional.</li>
+      <li><strong>Picture:</strong> Upload an image to be used as the Store logo from a website URL or your computer.</li>
+    </ul>
+    <p><strong>Buttons</strong></p>
+    <ul>
+      <li><strong>Cancel:</strong> The X icon will cancel your changes, and return you to [View](#store) mode.</li>
+      <li><strong>Save:</strong> The Check icon will save your changes, and return you to [View](#store) mode.</li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Shopping List Name:</strong> Got to the [Shopping List](#shopping-list) page, where you can see and edit the Shopping List information, and view the Products associated with that List. Clicking these links while in edit mode will cancel your changes.</li>
+      <li><strong>Product Name:</strong> Got to the [Product](#product) page, where you can see and edit the Product information, and view the Instances associated with that Product. Clicking these links while in edit mode will cancel your changes.</li>
+    </ul>
+  </div>
 </div>
 
 ## Settings
