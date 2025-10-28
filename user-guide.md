@@ -13,7 +13,7 @@ date: 2025-10-27
   <div style="display: block;">
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
+      <li><strong>Sign In:</strong> Go to the <a href="#sign-in">Sign In</a> page.</li>
     </ul>
   </div>
 </div>
@@ -23,7 +23,7 @@ date: 2025-10-27
 <div style="display: grid;">
   <p><img src="images/screenshots/sign_in_page.jpeg" alt="Sign In Page" style="float: left; margin: 15px; width: 400px">
     The Sign In page is where you enter your credentials to access the FreshKeep application.
-    Use your registered email address and password. If you do not have an account, the 'Sign Up' link will take you to the [Sign Up](#sign-up) page.
+    Use your registered email address and password. If you do not have an account, the 'Sign Up' link will take you to the <a href="#sign-up">Sign Up</a> page.
   </p>
   <div style="display: block">
     <p><strong>Fields</strong></p>
@@ -38,7 +38,7 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
+      <li><strong>Sign Up:</strong> Go to the <a href="#sign-up">Sign Up</a> page.</li>
     </ul>
   </div>
 </div>
@@ -51,7 +51,7 @@ date: 2025-10-27
     Use your primary email address. You will need to type a password longer than 6 characters and less than 20.
     You will need to confirm your password. If you email address is not already registered, your account will be created
     and you will be signed in.
-    If you email address is already registered, you can use the 'Sign In' link to take you to the [Sign In](#sign-in) page.
+    If you email address is already registered, you can use the 'Sign In' link to take you to the <a href="#sign-in">Sign In</a> page.
   </p>
   <div style="display: block;">
     <p><strong>Fields</strong></p>
@@ -67,7 +67,7 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
+      <li><strong>Sign In:</strong> Go to the <a href="#sign-in">Sign In</a> page.</li>
     </ul>
   </div>
 </div>
@@ -92,7 +92,7 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Forgot Password:</strong> Go to the [Forgot Password](#forgot-password) page.</li>
+      <li><strong>Forgot Password:</strong> Go to the <a href="#forgot-password">Forgot Password</a> page.</li>
     </ul>
   </div>
 </div>
@@ -115,8 +115,8 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
-      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
+      <li><strong>Sign In:</strong> Go to the <a href="#sign-in">Sign In</a> page.</li>
+      <li><strong>Sign Up:</strong> Go to the <a href="#sign-up">Sign Up</a> page.</li>
     </ul>
   </div>
 </div>
@@ -140,8 +140,8 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Sign In:</strong> Go to the [Sign In](#sign-in) page.</li>
-      <li><strong>Sign Up:</strong> Go to the [Sign Up](#sign-up) page.</li>
+      <li><strong>Sign In:</strong> Go to the <a href="#sign-in">Sign In</a> page.</li>
+      <li><strong>Sign Up:</strong> Go to the <a href="#sign-up">Sign Up</a> page.</li>
     </ul>
   </div>
 </div>
@@ -292,13 +292,13 @@ TBD
   <div style="display: block">
     <p><strong>Buttons</strong></p>
     <ul>
-      <li><strong>Edit:</strong> The Pencil icon puts you into [Edit](#store-addedit-mode) mode, where you can edit the name, address, etc. See the [Store Add/Edit Mode](#store-addedit-mode) section for details on the available fields and buttons.</li>
+      <li><strong>Edit:</strong> The Pencil icon puts you into <a href="#store-addedit-mode">Edit</a> mode, where you can edit the name, address, etc. See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.</li>
       <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
     </ul>
     <p><strong>Links</strong></p>
     <ul>
       <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
-      <li><strong>Store Name:</strong> Got to the [Store](#store) page, where you can see and edit the Store information, and view the Shopping Lists and Products associated with the Store.</li>
+      <li><strong>Store Name:</strong> Got to the <a href="#store">Store</a> page, where you can see and edit the Store information, and view the Shopping Lists and Products associated with the Store.</li>
     </ul>
   </div>
 </div>
@@ -311,14 +311,14 @@ TBD
   <div style="display: block">
     <p><strong>Buttons</strong></p>
     <ul>
-      <li><strong>Edit:</strong> The Pencil icon puts you into Edit mode, where you can edit the name, address, etc. See the [Store Add/Edit Mode](#store-addedit-mode) section for details on the available fields and buttons.</li>
+      <li><strong>Edit:</strong> The Pencil icon puts you into Edit mode, where you can edit the name, address, etc. See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.</li>
       <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
     </ul>
     <p><strong>Links</strong></p>
     <ul>
       <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
-      <li><strong>Shopping List Name:</strong> Got to the [Shopping List](#shopping-list) page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
-      <li><strong>Product Name:</strong> Got to the [Product](#product) page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
+      <li><strong>Shopping List Name:</strong> Got to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
+      <li><strong>Product Name:</strong> Got to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
     </ul>
   </div>
 </div>
@@ -344,13 +344,13 @@ TBD
     </ul>
     <p><strong>Buttons</strong></p>
     <ul>
-      <li><strong>Cancel:</strong> The X icon will cancel your changes, and return you to [View](#store) mode.</li>
-      <li><strong>Save:</strong> The Check icon will save your changes, and return you to [View](#store) mode.</li>
+      <li><strong>Cancel:</strong> The X icon will cancel your changes, and return you to <a href="#store">View</a> mode.</li>
+      <li><strong>Save:</strong> The Check icon will save your changes, and return you to <a href="#store">View</a> mode.</li>
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Shopping List Name:</strong> Got to the [Shopping List](#shopping-list) page, where you can see and edit the Shopping List information, and view the Products associated with that List. Clicking these links while in edit mode will cancel your changes.</li>
-      <li><strong>Product Name:</strong> Got to the [Product](#product) page, where you can see and edit the Product information, and view the Instances associated with that Product. Clicking these links while in edit mode will cancel your changes.</li>
+      <li><strong>Shopping List Name:</strong> Got to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List. Clicking these links while in edit mode will cancel your changes.</li>
+      <li><strong>Product Name:</strong> Got to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product. Clicking these links while in edit mode will cancel your changes.</li>
     </ul>
   </div>
 </div>
@@ -370,7 +370,7 @@ TBD
 
 TBD
 
-#### Add/Edit Mode
+#### User Add/Edit Mode
 
 TBD
 
