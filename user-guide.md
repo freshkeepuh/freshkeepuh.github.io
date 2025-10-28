@@ -10,6 +10,12 @@ date: 2025-10-27
   <p><img src="images/screenshots/home_page.jpeg" alt="Home Page" style="float: left; margin: 15px; width: 400px">
     The Home page is your landing page. It has a link in the upper right to sign in.
   </p>
+  <div style="display: block;">
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Sign In:</strong> Go to the Sign In page.</li>
+    </ul>
+  </div>
 </div>
 
 ## Sign In
