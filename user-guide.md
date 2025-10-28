@@ -273,7 +273,7 @@ TBD
 
 <div style="display: grid;">
   <p><img src="images/screenshots/shopping_list_page.jpeg" alt="Shopping List Page" style="float: left; margin: 15px; width: 400px">
-    The Shopping List page allows you to see the individual shoppiing list and the products associated with it.
+    The Shopping List page allows you to see the individual shopping list and the products associated with it.
   </p>
 </div>
 
