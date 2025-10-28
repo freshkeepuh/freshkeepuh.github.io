@@ -102,24 +102,24 @@ TBD
   The Add/Edit mode of the Location page allows you to edit the name, address, etc. of a new or existing location.</p>
 </div>
 
-## Storages
+## Storage Areas
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/storages_page.jpeg" alt="Storages Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/storage_areas_page.jpeg" alt="Storages Page" style="float: left; margin: 15px; width: 400px">
   The Storages page is where you can manage all of your storage.</p>
 </div>
 
-### Storage
+### Storage Area
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/storage_page.jpeg" alt="Storage Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/storage_area_page.jpeg" alt="Storage Page" style="float: left; margin: 15px; width: 400px">
   The Storage page letes you see a single storage and all of the product instances associated with it.</p>
 </div>
 
 #### Add/Edit Mode
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/storage_page_edit.jpeg" alt="Storage Page Add/Edit" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/storage_area_page_edit.jpeg" alt="Storage Page Add/Edit" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Storage page allows you to edit the name, type, etc. of a new or existing storage.</p>
 </div>
 
