@@ -23,7 +23,7 @@ date: 2025-10-27
 <div style="display: grid;">
   <p><img src="images/screenshots/sign_in_page.jpeg" alt="Sign In Page" style="float: left; margin: 15px; width: 400px">
     The Sign In page is where you enter your credentials to access the FreshKeep application.
-    Use your registered email address and password. If you do not have an account, the 'Sign Up' link will take you to the <a href="#sign-up">Sign Up</a> page.
+    Use your registered email address and password. If you do not have an account, use the '<a href="#sign-up">Sign Up</a>' link.
   </p>
   <div style="display: block">
     <p><strong>Fields</strong></p>
@@ -51,7 +51,7 @@ date: 2025-10-27
     Use your primary email address. You will need to type a password longer than 6 characters and less than 20.
     You will need to confirm your password. If you email address is not already registered, your account will be created
     and you will be signed in.
-    If you email address is already registered, you can use the 'Sign In' link to take you to the <a href="#sign-in">Sign In</a> page.
+    If you email address is already registered, you can use the '<a href="#sign-in">Sign In</a>' link.
   </p>
   <div style="display: block;">
     <p><strong>Fields</strong></p>
