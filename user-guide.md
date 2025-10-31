@@ -1,6 +1,6 @@
 ---
 title: "User Guide"
-date: 2025-10-27
+date: 2025-10-31
 ---
 # How to Use FreshKeep
 
