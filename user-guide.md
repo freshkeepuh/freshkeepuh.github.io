@@ -150,7 +150,49 @@ date: 2025-10-27
 
 <div style="display: grid;">
   <p><img src="images/screenshots/dashboard_page.jpeg" alt="Dashboard Page" style="float: left; margin: 15px; width: 400px">
-  The Dashboard page is your quick view of you inventory.</p>
+    The Dashboard page is your quick view of you inventory and gateway to all of the apps functions.
+  </p>
+  <div style="display: block;">
+    <p><strong>Components</strong></p>
+    <ul>
+      <li><strong>Total Items:</strong>
+        Shows the total number of items in your inventory across all locations and storage areas.
+        CLicking on Total Items will take you to the <a href="#inventory">Inventory</a> report.
+      </li>
+      <li><strong>Expired:</strong>
+        Shows the number of items in your inventory that are expired.
+        CLicking on Expired will take you to the <a href="#expired">Expired</a> report.
+      </li>
+      <li><strong>Shopping List:</strong>
+        Shows the number of items on your default shopping list.
+        Clicking on Shopping List will take you to the associated <a href="#shopping-list">Shopping List</a> page, where you can see all of the items on that Shopping List.
+      </li>
+      <li><strong>Storage Areas:</strong>
+        Shows a tabbed list with All and each Location. Each tab shows the Storage Areas associated with the Location. Each Storage Area is displayed with an icon, based on the type, and name of the Storage Area, and the number of items contained. Clicking on the Storage Area takes you to the associated <a href="#storage-area">Storage Area</a> page, where you can see a detailed listing of the items contained within.
+      </li>
+      <li><strong>Expiring Soon:</strong>
+        Shows the number of items in your inventory that are expiring in the next few days and the three (3) closest to being expired.
+        The threshold for the number of days for inclusion can be set on the <a href="#settings">Settings</a> page.
+        CLicking on Expiring Soon will take you to the <a href="#expiring">Expiring</a> report.
+      </li>
+      <li><strong>Quick Actions:</strong>
+        Allows you to quickly navigate to the <a href="#recipes">Recipes</a> page, or to the <a href="#products">Products</a> page.
+      </li>
+    </ul>
+    <p><strong>Links</strong></p>
+    <ul>
+      <li><strong>Locations:</strong> Go to the <a href="#locations">Locations</a> page.</li>
+      <li><strong>Catalog:</strong> Go to the <a href="#catalog">Catalog</a> page.</li>
+      <li><strong>Shopping Lists:</strong> Go to the <a href="#shopping-lists">Shopping Lists</a> page.</li>
+      <li><strong>Stores:</strong> Go to the <a href="#stores">Stores</a> page.</li>
+      <li><strong>Recipes:</strong> Go to the <a href="#recipes">Recipes</a> page.</li>
+      <li><strong>Users:</strong> For Administrators Only. Go to the <a href="#users">Users</a> page.</li>
+      <li><strong>Your Name/Email:</strong> Drops down the user menu.</li>
+      <li><strong>Settings:</strong> Under the user menu. Go to the <a href="#settings">Settings</a> page.</li>
+      <li><strong>Change Password:</strong> Under the user menu. Go to the <a href="#change-password">Change Password</a> page.</li>
+      <li><strong>Sign Out:</strong> Under the user menu. Sign Out of FreshKeep and return to the <a href="#home-page">Home</a> page.</li>
+    </ul>
+  </div>
 </div>
 
 ## Locations
@@ -216,10 +258,6 @@ date: 2025-10-27
   The Add/Edit mode of the Product page allows you to edit the name, type, etc. of a new or existing product.</p>
 </div>
 
-#### Restock Mode
-
-TBD
-
 ### Product Instance
 
 <div style="display: grid;">
@@ -281,7 +319,8 @@ TBD
 
 <div style="display: grid;">
   <p><img src="images/screenshots/shopping_list_page_edit.jpeg" alt="Shopping List Page Add/Edit" style="float: left; margin: 15px; width: 400px">
-  The Add/Edit mode of the Shopping List page allows you to edit the name, etc.</p>
+    The Add/Edit mode of the Shopping List page allows you to edit the name, etc.
+  </p>
 </div>
 
 ## Stores
@@ -292,13 +331,20 @@ TBD
   <div style="display: block">
     <p><strong>Buttons</strong></p>
     <ul>
-      <li><strong>Edit:</strong> The Pencil icon puts you into <a href="#store-addedit-mode">Edit</a> mode, where you can edit the name, address, etc. See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.</li>
-      <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
+      <li><strong>Edit:</strong>
+        The Pencil icon puts you into <a href="#store-addedit-mode">Edit</a> mode, where you can edit the name, address, etc.
+        See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.
+      </li>
+      <li><strong>Delete:</strong>
+        The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.
+      </li>
     </ul>
     <p><strong>Links</strong></p>
     <ul>
       <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
-      <li><strong>Store Name:</strong> Got to the <a href="#store">Store</a> page, where you can see and edit the Store information, and view the Shopping Lists and Products associated with the Store.</li>
+      <li><strong>Store Name:</strong>
+        Go to the <a href="#store">Store</a> page, where you can see and edit the Store information, and view the Shopping Lists and Products associated with the Store.
+      </li>
     </ul>
   </div>
 </div>
@@ -317,8 +363,8 @@ TBD
     <p><strong>Links</strong></p>
     <ul>
       <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
-      <li><strong>Shopping List Name:</strong> Got to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
-      <li><strong>Product Name:</strong> Got to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
+      <li><strong>Shopping List Name:</strong> Go to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
+      <li><strong>Product Name:</strong> Go to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
     </ul>
   </div>
 </div>
@@ -349,8 +395,8 @@ TBD
     </ul>
     <p><strong>Links</strong></p>
     <ul>
-      <li><strong>Shopping List Name:</strong> Got to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List. Clicking these links while in edit mode will cancel your changes.</li>
-      <li><strong>Product Name:</strong> Got to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product. Clicking these links while in edit mode will cancel your changes.</li>
+      <li><strong>Shopping List Name:</strong> Go to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List. Clicking these links while in edit mode will cancel your changes.</li>
+      <li><strong>Product Name:</strong> Go to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product. Clicking these links while in edit mode will cancel your changes.</li>
     </ul>
   </div>
 </div>
@@ -359,7 +405,7 @@ TBD
 
 <div style="display: grid;">
   <p><img src="images/screenshots/settings_page.jpeg" alt="Settings Page" style="float: left; margin: 15px; width: 400px">
-  The settings page allows you to customize your avatar, set your first and last name, update your email address, and select the light or dark theme</p>
+  The settings page allows you to customize your avatar, set your first and last name, update your email address, and select the light or dark theme. You can also set the threshold for expiring soon in days, which defaults to three (3).</p>
 </div>
 
 ## Users
@@ -378,16 +424,67 @@ TBD
 
 ### Inventory
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/inventory_report.jpeg" alt="Inventory Report" style="float: left; margin: 15px; width: 400px">
+    Shows all items in inventory sorted and grouped by location, storage area, and product name.
+    Clicking on a location, storage area, or product will take you to the associated page.
+  </p>
+    <p><strong>Filter Options</strong></p>
+    <ul>
+      <li><strong>Location:</strong> Select a location.</li>
+      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+      <li><strong>Product:</strong> Select a Product.</li>
+    </ul>
+</div>
 
 ### Expired
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/expired_report.jpeg" alt="Expired Report" style="float: left; margin: 15px; width: 400px">
+    Shows all items in inventory that are expired sorted and grouped by location, storage area, product name, and expiration date.
+    Clicking on a location, storage area, or product will take you to the associated page.
+  </p>
+    <p><strong>Filter Options</strong></p>
+    <ul>
+      <li><strong>Location:</strong> Select a location.</li>
+      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+      <li><strong>Product:</strong> Select a Product.</li>
+    </ul>
+</div>
 
 ### Expiring
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/expiring_report.jpeg" alt="Expiring Report" style="float: left; margin: 15px; width: 400px">
+    Shows all items in inventory that are expiring soon sorted and grouped by location, storage area, product name, and expiration date.
+    Clicking on a location, storage area, or product will take you to the associated page.
+  </p>
+    <p><strong>Filter Options</strong></p>
+    <ul>
+      <li><strong>Location:</strong> Select a location.</li>
+      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+      <li><strong>Product:</strong> Select a Product.</li>
+      <li><strong>Threshold:</strong>
+        The number of days use when calculating if an item is expiring soon.
+        Defaults to the value given on the <a href="#settings">Settings</a> page.
+    </ul>
+</div>
 
 ### Restock
 
-TBD
+<div style="display: grid;">
+  <p><img src="images/screenshots/restock_report.jpeg" alt="Restock Report" style="float: left; margin: 15px; width: 400px">
+    Shows all products that are marked as 'Needed' sorted and grouped by location, storage area, and product name.
+    Clicking on a location, storage area, or product will take you to the associated page.
+  </p>
+    <p><strong>Filter Options</strong></p>
+    <ul>
+      <li><strong>Location:</strong> Select a location.</li>
+      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+      <li><strong>Product:</strong> Select a Product.</li>
+    </ul>
+</div>
