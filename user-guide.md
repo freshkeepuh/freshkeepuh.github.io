@@ -444,13 +444,13 @@ TBD
     Shows all items in inventory sorted and grouped by location, storage area, and product name.
     Clicking on a location, storage area, or product will take you to the associated page.
   </p>
-    <p><strong>Filter Options</strong></p>
-    <ul>
-      <li><strong>Location:</strong> Select a location.</li>
-      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
-      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
-      <li><strong>Product:</strong> Select a Product.</li>
-    </ul>
+  <p><strong>Filter Options</strong></p>
+  <ul>
+    <li><strong>Location:</strong> Select a location.</li>
+    <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+    <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+    <li><strong>Product:</strong> Select a Product.</li>
+  </ul>
 </div>
 
 ### Expired
@@ -460,13 +460,13 @@ TBD
     Shows all items in inventory that are expired sorted and grouped by location, storage area, product name, and expiration date.
     Clicking on a location, storage area, or product will take you to the associated page.
   </p>
-    <p><strong>Filter Options</strong></p>
-    <ul>
-      <li><strong>Location:</strong> Select a location.</li>
-      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
-      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
-      <li><strong>Product:</strong> Select a Product.</li>
-    </ul>
+  <p><strong>Filter Options</strong></p>
+  <ul>
+    <li><strong>Location:</strong> Select a location.</li>
+    <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+    <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+    <li><strong>Product:</strong> Select a Product.</li>
+  </ul>
 </div>
 
 ### Expiring
@@ -485,7 +485,7 @@ TBD
     <li><strong>Threshold:</strong>
       The number of days use when calculating if an item is expiring soon.
       Defaults to the value given on the <a href="#settings">Settings</a> page.
-    <li>
+    </li>
   </ul>
 </div>
 
