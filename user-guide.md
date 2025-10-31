@@ -327,10 +327,15 @@ date: 2025-10-27
 
 <div style="display: grid;">
   <p><img src="images/screenshots/stores_page.jpeg" alt="Stores Page" style="float: left; margin: 15px; width: 400px">
-  The Stores page allows you to see the stores at which you shop.</p>
+    The Stores page allows you to see the stores at which you shop.
+  </p>
   <div style="display: block">
     <p><strong>Buttons</strong></p>
     <ul>
+      <li><strong>Add:</strong>
+        The Plus icon pops up a modal dialog where you can add a Store.
+        See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.
+      </li>
       <li><strong>Edit:</strong>
         The Pencil icon puts you into <a href="#store-addedit-mode">Edit</a> mode, where you can edit the name, address, etc.
         See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.
@@ -357,14 +362,24 @@ date: 2025-10-27
   <div style="display: block">
     <p><strong>Buttons</strong></p>
     <ul>
-      <li><strong>Edit:</strong> The Pencil icon puts you into Edit mode, where you can edit the name, address, etc. See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.</li>
-      <li><strong>Delete:</strong> The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.</li>
+      <li><strong>Back:</strong> Go back to the referring page.</li>
+      <li><strong>Edit:</strong>
+        The Pencil icon puts you into Edit mode, where you can edit the name, address, etc.
+        See the <a href="#store-addedit-mode">Store Add/Edit Mode</a> section for details on the available fields and buttons.
+      </li>
+      <li><strong>Delete:</strong>
+        The Trash Can icon deletes the store, and is only enabled if the Store has no Shopping Lists or Products associated with it.
+      </li>
     </ul>
     <p><strong>Links</strong></p>
     <ul>
       <li><strong>Store Logo:</strong> Go to the Store&apos;s Webpage, if known.</li>
-      <li><strong>Shopping List Name:</strong> Go to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List.</li>
-      <li><strong>Product Name:</strong> Go to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product.</li>
+      <li><strong>Shopping List Name:</strong>
+        Go to the <a href="#shopping-list">Shopping List</a> page, where you can see and edit the Shopping List information, and view the Products associated with that List.
+      </li>
+      <li><strong>Product Name:</strong>
+        Go to the <a href="#product">Product</a> page, where you can see and edit the Product information, and view the Instances associated with that Product.
+      </li>
     </ul>
   </div>
 </div>
