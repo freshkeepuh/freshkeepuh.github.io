@@ -150,7 +150,7 @@ date: 2025-10-27
 
 <div style="display: grid;">
   <p><img src="images/screenshots/dashboard_page.jpeg" alt="Dashboard Page" style="float: left; margin: 15px; width: 400px">
-    The Dashboard page is your quick view of you inventory and gateway to all of the apps functions.
+    The Dashboard page is your quick view of your inventory and gateway to all of the apps functions.
   </p>
   <div style="display: block;">
     <p><strong>Components</strong></p>
@@ -476,16 +476,17 @@ TBD
     Shows all items in inventory that are expiring soon sorted and grouped by location, storage area, product name, and expiration date.
     Clicking on a location, storage area, or product will take you to the associated page.
   </p>
-    <p><strong>Filter Options</strong></p>
-    <ul>
-      <li><strong>Location:</strong> Select a location.</li>
-      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
-      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
-      <li><strong>Product:</strong> Select a Product.</li>
-      <li><strong>Threshold:</strong>
-        The number of days use when calculating if an item is expiring soon.
-        Defaults to the value given on the <a href="#settings">Settings</a> page.
-    </ul>
+  <p><strong>Filter Options</strong></p>
+  <ul>
+    <li><strong>Location:</strong> Select a location.</li>
+    <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+    <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+    <li><strong>Product:</strong> Select a Product.</li>
+    <li><strong>Threshold:</strong>
+      The number of days use when calculating if an item is expiring soon.
+      Defaults to the value given on the <a href="#settings">Settings</a> page.
+    <li>
+  </ul>
 </div>
 
 ### Restock
@@ -495,11 +496,11 @@ TBD
     Shows all products that are marked as 'Needed' sorted and grouped by location, storage area, and product name.
     Clicking on a location, storage area, or product will take you to the associated page.
   </p>
-    <p><strong>Filter Options</strong></p>
-    <ul>
-      <li><strong>Location:</strong> Select a location.</li>
-      <li><strong>Storage Type:</strong> Select a Storage Type.</li>
-      <li><strong>Storage Area:</strong> Select a Storage Area.</li>
-      <li><strong>Product:</strong> Select a Product.</li>
-    </ul>
+  <p><strong>Filter Options</strong></p>
+  <ul>
+    <li><strong>Location:</strong> Select a location.</li>
+    <li><strong>Storage Type:</strong> Select a Storage Type.</li>
+    <li><strong>Storage Area:</strong> Select a Storage Area.</li>
+    <li><strong>Product:</strong> Select a Product.</li>
+  </ul>
 </div>
