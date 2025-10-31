@@ -30,6 +30,7 @@ date: 2025-10-27
     <ul>
       <li><strong>Email:</strong> Enter your registered email address.</li>
       <li><strong>Password:</strong> Enter your password.</li>
+      <li><strong>Remember Me:</strong> Check this to have the site remember your email address.</li>
     </ul>
     <p><strong>Buttons</strong></p>
     <ul>
@@ -38,6 +39,7 @@ date: 2025-10-27
     </ul>
     <p><strong>Links</strong></p>
     <ul>
+      <li><strong>Forgot Password:</strong> Go to the <a href="#forgot-password">Forgot Password</a> page.</li>
       <li><strong>Sign Up:</strong> Go to the <a href="#sign-up">Sign Up</a> page.</li>
     </ul>
   </div>
