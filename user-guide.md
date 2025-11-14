@@ -51,9 +51,9 @@ date: 2025-10-31
   <p><img src="images/screenshots/sign_up_page.jpeg" alt="Sign Up Page" style="float: left; margin: 15px; width: 400px">
     The Sign Up page is where you can create credentials to access the FreshKeep application.
     Use your primary email address. You will need to type a password longer than 6 characters and less than 20.
-    You will need to confirm your password. If you email address is not already registered, your account will be created
+    You will need to confirm your password. If your email address is not already registered, your account will be created
     and you will be signed in.
-    If you email address is already registered, you can use the '<a href="#sign-in">Sign In</a>' link.
+    If your email address is already registered, you can use the '<a href="#sign-in">Sign In</a>' link.
   </p>
   <div style="display: block;">
     <p><strong>Fields</strong></p>
@@ -453,6 +453,15 @@ TBD
     <li><strong>Storage Area:</strong> Select a Storage Area.</li>
     <li><strong>Product:</strong> Select a Product.</li>
   </ul>
+  <p><strong>Columns</strong></p>
+  <ul>
+    <li><strong>Location:</strong> The location in which the Product that is needed is stored.</li>
+    <li><strong>Storage Area:</strong> The storage area in which the Product that is needed is stored.</li>
+    <li><strong>Product:</strong> The Product that is expiring soon.</li>
+    <li><strong>Quantity:</strong> The quantity of the Product that is expiring soon.</li>
+    <li><strong>Unit of Measure:</strong> The unit of measure for the quantity of the Product that is expiring soon.</li>
+  </ul>
+</div>
 </div>
 
 ### Expired
@@ -469,6 +478,16 @@ TBD
     <li><strong>Storage Area:</strong> Select a Storage Area.</li>
     <li><strong>Product:</strong> Select a Product.</li>
   </ul>
+  <p><strong>Columns</strong></p>
+  <ul>
+    <li><strong>Location:</strong> The location in which the Product that is needed is stored.</li>
+    <li><strong>Storage Area:</strong> The storage area in which the Product that is needed is stored.</li>
+    <li><strong>Product:</strong> The Product that is expiring soon.</li>
+    <li><strong>Expiration Date:</strong> The expiration date of the Product that is expiring soon.</li>
+    <li><strong>Quantity:</strong> The quantity of the Product that is expiring soon.</li>
+    <li><strong>Unit of Measure:</strong> The unit of measure for the quantity of the Product that is expiring soon.</li>
+  </ul>
+</div>
 </div>
 
 ### Expiring
@@ -489,6 +508,15 @@ TBD
       Defaults to the value given on the <a href="#settings">Settings</a> page.
     </li>
   </ul>
+  <p><strong>Columns</strong></p>
+  <ul>
+    <li><strong>Location:</strong> The location in which the Product that is needed is stored.</li>
+    <li><strong>Storage Area:</strong> The storage area in which the Product that is needed is stored.</li>
+    <li><strong>Product:</strong> The Product that is expiring soon.</li>
+    <li><strong>Expiration Date:</strong> The expiration date of the Product that is expiring soon.</li>
+    <li><strong>Quantity:</strong> The quantity of the Product that is expiring soon.</li>
+    <li><strong>Unit of Measure:</strong> The unit of measure for the quantity of the Product that is expiring soon.</li>
+  </ul>
 </div>
 
 ### Restock
@@ -504,5 +532,13 @@ TBD
     <li><strong>Storage Type:</strong> Select a Storage Type.</li>
     <li><strong>Storage Area:</strong> Select a Storage Area.</li>
     <li><strong>Product:</strong> Select a Product.</li>
+  </ul>
+  <p><strong>Columns</strong></p>
+  <ul>
+    <li><strong>Location:</strong> The location in which the Product that is needed is stored.</li>
+    <li><strong>Storage Area:</strong> The storage area in which the Product that is needed is stored.</li>
+    <li><strong>Product:</strong> The Product that is needed.</li>
+    <li><strong>Quantity:</strong> The quantity of the Product currently on hand.</li>
+    <li><strong>Unit of Measure:</strong> The unit of measure for the quantity of the Product currently on hand.</li>
   </ul>
 </div>
