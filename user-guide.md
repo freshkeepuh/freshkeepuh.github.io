@@ -21,7 +21,7 @@ date: 2025-10-31
 ## Sign In
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/sign_in_page.jpeg" alt="Sign In Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/sign-in-2.png" alt="Sign In Page" style="float: left; margin: 15px; width: 400px">
     The Sign In page is where you enter your credentials to access the FreshKeep application.
     Use your registered email address and password. If you do not have an account, use the '<a href="#sign-up">Sign Up</a>' link.
   </p>
