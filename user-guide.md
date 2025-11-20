@@ -298,7 +298,7 @@ date: 2025-10-31
 #### Recipe Add/Edit Mode
 
 <div style="display: grid;">
-  <p><img src="images/mockups/recipe-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/recipe-add-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Recipe page allows you to edit the title, etc. of a new or existing recipe.</p>
 </div>
 
