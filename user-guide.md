@@ -284,21 +284,21 @@ date: 2025-10-31
 ## Recipes
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/recipes_page.jpeg" alt="Recipes Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/new-recipe-page.png" alt="Recipes Page" style="float: left; margin: 15px; width: 400px">
   The Recipe page allows you to see your recipes. Use the filter options to find a particular recipe.</p>
 </div>
 
 ### Recipe
 
 <div style="display: grid;">
-  <p><img src="images/mockups/new-recipe-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/recipe-instance.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
   The Recipe page allows you to see the instance of the Recipe.</p>
 </div>
 
 #### Recipe Add/Edit Mode
 
 <div style="display: grid;">
-  <p><img src="images/mockups/recipe-add-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/recipe-add.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Recipe page allows you to edit the title, etc. of a new or existing recipe.</p>
 </div>
 
