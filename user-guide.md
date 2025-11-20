@@ -291,7 +291,7 @@ date: 2025-10-31
 ### Recipe
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/recipe_page.jpeg" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/new-recipe-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
   The Recipe page allows you to see the instance of the Recipe.</p>
 </div>
 
