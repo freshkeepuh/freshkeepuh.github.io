@@ -284,7 +284,7 @@ date: 2025-10-31
 ## Recipes
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/new-recipe-page.png" alt="Recipes Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/new-recipe-page.png" alt="Recipes Page" style="float: left; margin: 15px; width: 400px">
   The Recipe page allows you to see your recipes. Use the filter options to find a particular recipe.</p>
 </div>
 
