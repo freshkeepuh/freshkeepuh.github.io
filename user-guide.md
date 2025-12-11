@@ -298,14 +298,14 @@ date: 2025-10-31
 #### Recipe Add/Edit Mode
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/recipe-add.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/screenshots/recipe-page.png" alt="Recipe Page" style="float: left; margin: 15px; width: 400px">
   The Add/Edit mode of the Recipe page allows you to edit the title, etc. of a new or existing recipe.</p>
 </div>
 
 ## Shopping Lists
 
 <div style="display: grid;">
-  <p><img src="images/screenshots/shopping_lists_page.jpeg" alt="Shopping Lists Page" style="float: left; margin: 15px; width: 400px">
+  <p><img src="images/mockups/shopping_lists_page.jpeg" alt="Shopping Lists Page" style="float: left; margin: 15px; width: 400px">
     The Shopping Lists page allows you to see and manage your shopping lists.</p>
 </div>
 
